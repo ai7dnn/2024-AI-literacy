@@ -9,6 +9,9 @@
 ## chatGPT 검색공유
 - https://chatgpt.com/share/e/675500a0-cd18-8008-a731-4d4cb0f82cb6
 
+## 머신러닝과 딥러닝
+- https://www.youtube.com/watch?v=NbLVcMmxSw0
+
 ## 인공지능 체험
 - 인공신경망 체험
     1. Neural Network 체험 https://playground.tensorflow.org
